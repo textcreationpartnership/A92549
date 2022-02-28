@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Parliament of Scotland, concerning the government of that kingdom, and the deposing of His Majesty from executing any power, untill he hath signed the propositions concerning religion and the Covenant. Whereunto is annexed, His Majesties desires to the Parliament of England: and the determination of both Housss [sic] thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92549</idno>
+            <idno type="STC">Wing S1222</idno>
+            <idno type="STC">Thomason E370_10</idno>
+            <idno type="STC">ESTC R201290</idno>
+            <idno type="EEBO-CITATION">99861813</idno>
+            <idno type="PROQUEST">99861813</idno>
+            <idno type="VID">160109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160109)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E370[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Parliament of Scotland, concerning the government of that kingdom, and the deposing of His Majesty from executing any power, untill he hath signed the propositions concerning religion and the Covenant. Whereunto is annexed, His Majesties desires to the Parliament of England: and the determination of both Housss [sic] thereupon.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>January, 5. 1647. Printed for generall satisfaction of the subjects of England,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Not in fact the Scottish Parliament's declaration, etc.; a narrative about it, etc.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Scotland. --  Parliament --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160109:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the Parliament of SCOTLAND, CONCERNING The Government of that Kingdom, and the depoſing of His <hi>MAIESTY</hi> from executing any Power, untill He hath ſigned the Propoſitions concerning <hi>RELIGION</hi> and the <hi>COVENANT.</hi>
+            </p>
+            <p>Whereunto is annexed, His Majeſties Deſires to the Parliament of <hi>England:</hi> And the Determination of both Houſss thereupon.</p>
+            <p>JANVARY. 5. 1647.</p>
+            <p>Printed for generall ſatisfaction of the Subjects of England.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160109:2"/>
+            <pb facs="tcp:160109:2"/>
+            <head>NEVVES <hi>FROM THE</hi> NORTH</head>
+            <p>BY Letters from Scotland it is adverti<g ref="char:EOLhyphen"/>ſed, that the Parliament of that King<g ref="char:EOLhyphen"/>dome ſits very cloſe, and hath many Confe<g ref="char:EOLhyphen"/>rences and Debates about the Diſpoſall of the Kings Perſon, the major-part deſiring, that his Majeſty may be ſetled in Honour and Dignity, &amp;c.</p>
+            <p>But now they have with one unanimous conſent voted, and declared, <hi>viz.</hi>
+            </p>
+            <pb facs="tcp:160109:3"/>
+            <p>That it is not lawfull for the Kingdome of Scotland to aſſiſt the King, for the reco<g ref="char:EOLhyphen"/>very of the Government of the Kingdom of England, He not granting the Propoſitions concerning Religion and the Covenant, and giving ſatisfaction to both Kingdoms, ac<g ref="char:EOLhyphen"/>cording to their ingagement by the Cove<g ref="char:EOLhyphen"/>nant, &amp;c.</p>
+            <p>They have further declared, that the king<g ref="char:EOLhyphen"/>dome of Scotland ſhall be governed, as it hath been theſe five laſt years, all means be<g ref="char:EOLhyphen"/>ing uſed that the King may take the Cove<g ref="char:EOLhyphen"/>nant, &amp;c.</p>
+            <p>And further, that the King ſhall not exe<g ref="char:EOLhyphen"/>cute any power in the Kingdome of Scot<g ref="char:EOLhyphen"/>land, untill ſuch time, that he hath granted the Propoſitions concerning Religion and the Covenant, and given a ſatisfactory an<g ref="char:EOLhyphen"/>ſwer to both Kingdomes in the reſt of the Propoſitions, &amp;c.</p>
+            <p>It is alſo further declared, that if his Ma<g ref="char:EOLhyphen"/>jeſty refuſe to paſſe the propoſitions, he ſhal be diſpoſed of according to the Covenant and treaty, &amp;c.</p>
+            <p>
+               <hi>Reſolved upon by the Repreſentative Body of the Kingdom of Scotland.</hi>
+            </p>
+            <pb facs="tcp:160109:3"/>
+            <p>By Letters from Newcaſtle it is further communicated unto us, that ſince the arri<g ref="char:EOLhyphen"/>vall of theſe tydings from Edenborough, the King is much diſcontented, and doth ear<g ref="char:EOLhyphen"/>neſtly deſire a perſonal treaty with the Par<g ref="char:EOLhyphen"/>liament of England; as will manifeſtly ap<g ref="char:EOLhyphen"/>pear by theſe enſuing lines.</p>
+            <p>His Majeſty having a deſire to bring a ſpeedy period to the miſeries and diſtractions of this ſanguiſhing king<g ref="char:EOLunhyphen"/>dom, hath ſent another Meſſage to the Parliament, viz That He deſires to come to London, or any of his houſes the abouts upon the publike Faith and ſecurity of his two houſes of Parliament, &amp;c. that he ſhal be there with honour, freedom and ſafety, where by his perſonal preſence, He may not onely raiſe a mutual confidence betwixt him &amp; his people, but alſo have thoſe doubts cleared, and thoſe difficulties explained to him, without which he cannot (but with the aforeſaid miſ<g ref="char:EOLhyphen"/>chievous inconveniencies) give a particular anſwer to the Propoſitions.</p>
+            <p>And with which he doubts not but ſo to manifeſt his reall intentions for the ſetling of Religion, the juſt pri<g ref="char:EOLhyphen"/>viledges of Parliament, with the freedome and property of the ſubject, that it ſhall not bee in the power of wic<g ref="char:EOLhyphen"/>ked and malicious men to hinder the eſtabliſhing of that firme peace which all honeſt men deſire.</p>
+            <p>Aſſuring them, that as he wil make no other Demands, but ſuch as he believes confidently to be juſt, and much conducing to the tranquility of the people: So he will be moſt willing to condeſcend to them in whatſoever ſhall be really for their good and happineſſe. Not doub<g ref="char:EOLhyphen"/>ting likewiſe but you will alſo have a due rega d to maintain the juſt Power of the Crowne, according to your many Proteſtations and Profeſſions. For certainly
+<pb facs="tcp:160109:4"/>except King and People have reciprocall care each of other, neither can be happy.</p>
+            <p>Which Meſſage, the honourable houſe of Commons have ſpent ſome time upon, and have had ſome Conference with the Lords about the ſame, which debates have produ<g ref="char:EOLhyphen"/>ced thus much; that his Majeſty may come to Holmsby houſe in Northampton ſhire, there to remaine, with reſpect and honour to the ſafety and preſervation of his Maje<g ref="char:EOLhyphen"/>ſties perſon, in the preſervation and defence of the Kingdomes, according to the Cove<g ref="char:EOLhyphen"/>nant, with ſuch attendance as both Houſes ſhall think fit.</p>
+            <p>One thing I cannot omit, which will ren<g ref="char:EOLhyphen"/>der great ſatisfaction to the Subjects of England, viz.</p>
+            <p>His Excellency Generall <hi>Leſll</hi> hath given Order to all the Colonels both of Horſe and Foot, under his Command, that they forth<g ref="char:EOLhyphen"/>with have their Regiments in readineſſe, and prepare themſelves for a march. The Works at Barwick and Carliſle are demoliſhing and throwing down.</p>
+            <p>And therefore, for the ſatisfaction of the Kingdom of England, the Scots Commiſſi<g ref="char:EOLhyphen"/>oners hath ſent to the Parliament, intima<g ref="char:EOLhyphen"/>ting,
+<pb facs="tcp:160109:4"/>that they are now upon their retur<g ref="char:EOLhyphen"/>ning home to Scotland, deſiring to know, if they had any further ſervice to command them.</p>
+            <p>Which Meſſage the houſe received with much alacrity, and ordered that that thanks ſhould be given them, &amp;cs</p>
+            <p>O what a terrour is this to the enemies of Great Britain, to behold the gallant con<g ref="char:EOLhyphen"/>currence, and happy uniting of the two Kingdoms of England and Scotland, who are reſolved to aſſiſt each other, againſt any Forraign or Domeſtique Enemy, that ſhall endeavour to diſturbe the peace and tran<g ref="char:EOLhyphen"/>quility of theſe united Kingdoms.</p>
+            <p>From Ireland it is communicated unto us,</p>
+            <p>Firſt, that the exerciſe of the Romane Catholique Religion, be in Dublin, Droheda, and all the Kingdome of Ireland, as free and publike, as now in Paris, and other places beyond the Seas.</p>
+            <p>Secondly, that the Councell of State, called the Councell Table be of members true and faithfull to his Majeſty, and ſuch of which there may be no fear or ſuſ<g ref="char:EOLhyphen"/>pition of going to the Parliaments Party.</p>
+            <p>Thirdly, that Dublin, Droheda, and all other Garri<g ref="char:EOLhyphen"/>ſons within the Proteſtants quarters bee garriſoned for the King by the Confederate Catholiques, to keep the ſame for the uſe of his Majeſty, and defence of the king<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Fourthly, that the Confederate Councell ſhall take
+<pb facs="tcp:160109:5"/>an Oath to keep all Gariſons for the uſe of the King and his Succeſſors, and defence of the Kingdome.</p>
+            <p>Fifthly, that the Councellors, Generals, Officers and Souldiers ſhall ſweare to fight againſt the Parliament both by Sea and Land, and that they will never come to any agreement with the Parliament, or any of the Kings enemies, to the prejudice of his Majeſty, or that King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Laſtly, that according to the Oathes of Aſſociation, they will to the utmoſt of their power defend the Fun<g ref="char:EOLhyphen"/>damentall Laws of that Kingdom, the Kings Rights, and the lives and fortunes of the Subjects.</p>
+            <p>The Parliament haue this week declared, that they will maintain a defenſive warre for the reducing of that Kingdom, and have ordered that the Lord Liſle Lieute<g ref="char:EOLhyphen"/>nant Generall of the Kingdom of Ireland for the Parla<g ref="char:EOLhyphen"/>ment of England, ſhal be forthwith diſpatched overwith an Army, for the redeeming of that diſtreſſed Kingdom from the tyrannicall oppreſſion from the blood-thirſty Rebels.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
